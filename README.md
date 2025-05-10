@@ -35,6 +35,6 @@ To run this project locally, follow these steps:
 ### Download all the requirements
 - Refer to Requirement.txt 
 
-### Download the Amazon Dataset as csw file
+### Download the Amazon Dataset as csv file from Kaggle
 https://www.kaggle.com/datasets/piyushjain16/amazon-product-data
 
